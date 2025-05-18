@@ -2,7 +2,7 @@
 - 👀 I’m interested in making electronic projects
 - 🌱 I’m currently learning arduino based IOT projects
 - 💞️ I’m looking to collaborate on GitHub who are good at electronics
-- 📫 How to reach me: through Instagram @neeraj.chary
+- 📫 How to reach me: through Instagram @neeraj.n77
 
 
 <!---
